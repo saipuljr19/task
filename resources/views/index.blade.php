@@ -15,9 +15,9 @@
         <nav class="navigasi">
             <div class="grup-logo">
                 <img src="images/logopolije.png"
-                    alt="Logo UMY" class="logo" />
+                    alt="Logo" class="logo" />
                 <img src="images/polijewes.png"
-                    alt="Logo CDC" class="logo" />
+                    alt="Logo" class="logo" />
             </div>
             <ul class="link-navigasi">
                 <li><a href="#">Beranda</a></li>
@@ -84,7 +84,7 @@
 
         <!-- Pusat Karier --> <section class="section-karier">
             <div class="teks-karier">
-                <h3>Pusat Pengembangan Karier UMY</h3>
+                <h3>Pusat Pengembangan Karier Polije</h3>
                 <p>Pusat Pengembangan Karier (CDC) adalah unit di dalam universitas yang menyediakan layanan karier dan
                     dukungan bagi mahasiswa dan alumni. CDC menawarkan berbagai program, lokakarya, dan sumber daya
                     untuk membantu mahasiswa mengembangkan keterampilan karier mereka, menjelajahi peluang kerja, dan
